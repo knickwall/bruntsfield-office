@@ -1062,20 +1062,6 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":13,
-         "fillmode":"preserve-aspect-fit",
-         "firstgid":2956,
-         "image":"G:\/Game Assets\/top-down retro interior house_itchio\/TopDownHouse_FurnitureState1.png",
-         "imageheight":288,
-         "imagewidth":208,
-         "margin":0,
-         "name":"TopDownHouse_FurnitureState1",
-         "spacing":0,
-         "tilecount":234,
-         "tileheight":16,
-         "tilewidth":16
         }],
  "tilewidth":32,
  "type":"map",
